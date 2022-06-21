@@ -13,9 +13,9 @@ Product.create( name: "Huawei P-Smart",
               )
 Product.create( name: "Huawei P-30",
                 description: "Only Few flagships in Premium Quality by Huawei",
-                price: 79.9
+                price: 39.95
               )
 Product.create( name: "Huawei P-Keypad",
                 description: "Many flagships in low budget by Huawei",
-                price: 79.9
+                price: 19.99
               )
